@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SakshiGit22
-- 👀 I’m interested in Problem Solving| Python |DSA | Devops Role
+- 👀 I’m interested in Infra - App Support|configuration Management|Problem Solving|Python|DSA|Devops Role
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
